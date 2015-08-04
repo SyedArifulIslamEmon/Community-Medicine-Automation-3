@@ -18,3 +18,12 @@ G:\Visual Studio Project\CommunityMedicineAutomation\CommunityMedicineAutomation
 G:\Visual Studio Project\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.csprojResolveAssemblyReference.cache
 G:\Visual Studio Project\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\itextsharp.xml
 G:\Visual Studio Project\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\Newtonsoft.Json.dll
+C:\Users\OrNoK\Desktop\BAsis\Batch 03\CommunityMedicineAutomation\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.dll.config
+C:\Users\OrNoK\Desktop\BAsis\Batch 03\CommunityMedicineAutomation\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.dll
+C:\Users\OrNoK\Desktop\BAsis\Batch 03\CommunityMedicineAutomation\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\CommunityMedicineAutomation.pdb
+C:\Users\OrNoK\Desktop\BAsis\Batch 03\CommunityMedicineAutomation\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\Newtonsoft.Json.dll
+C:\Users\OrNoK\Desktop\BAsis\Batch 03\CommunityMedicineAutomation\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\itextsharp.xml
+C:\Users\OrNoK\Desktop\BAsis\Batch 03\CommunityMedicineAutomation\CommunityMedicineAutomation\CommunityMedicineAutomation\bin\Newtonsoft.Json.xml
+C:\Users\OrNoK\Desktop\BAsis\Batch 03\CommunityMedicineAutomation\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.csprojResolveAssemblyReference.cache
+C:\Users\OrNoK\Desktop\BAsis\Batch 03\CommunityMedicineAutomation\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.dll
+C:\Users\OrNoK\Desktop\BAsis\Batch 03\CommunityMedicineAutomation\CommunityMedicineAutomation\CommunityMedicineAutomation\obj\Debug\CommunityMedicineAutomation.pdb
